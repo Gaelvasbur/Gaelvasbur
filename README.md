@@ -32,18 +32,6 @@ I am a passionate Full Stack Developer focused on building clean, efficient, and
 
 ---
 
-## ⭐ Featured Projects
-
-### 📂 [Project Name 1]
-* **Description**: A brief sentence explaining what problem this application solves.
-* **Tech Stack**: React, Node.js, MongoDB.
-* **Links**: [Live Demo](https://your-demo-link.com) | [Repository](https://github.com)
-
-### 📂 [Project Name 2]
-* **Description**: A brief sentence explaining what problem this application solves.
-* **Tech Stack**: Python, Django, PostgreSQL.
-* **Links**: [Live Demo](https://your-demo-link.com) | [Repository](https://github.com)
-
 ---
 
 ## 📊 GitHub Stats
