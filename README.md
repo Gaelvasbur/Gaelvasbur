@@ -32,8 +32,6 @@ I am a passionate Full Stack Developer focused on building clean, efficient, and
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
