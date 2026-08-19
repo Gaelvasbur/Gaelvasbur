@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./bannergael.png" alt="Gael Isaac Vásquez Burgos" width="100%">
+</p>
 
 ## 🚀 About Me
 I am a passionate Frontend Developer focused on building clean, efficient, and scalable web solutions. I love turning complex problems into simple, beautiful, and intuitive designs.
