@@ -26,10 +26,6 @@ I am a passionate Full Stack Developer focused on building clean, efficient, and
 ![NodeJS](https://shields.io)
 ![PostgreSQL](https://shields.io)
 
-### 🧰 Tools & Platforms
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-
 ---
 
 ## 📊 GitHub Stats
