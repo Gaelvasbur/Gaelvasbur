@@ -23,16 +23,6 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 **Database & Tools (Complementary)**
 * SQL 📊
 * Git & GitHub 🐙
-* 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://vercel.app" alt="GitHub Stats" height="180px"/>
-<img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
-
 ---
 
 ## 📫 Connect with Me
