@@ -45,11 +45,8 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
     <!-- Botón de Correo -->
     <td>
       <a href="mailto:gaelvasbur@gmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Agaelvasbur%40gmail.com" height="35">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Email-gaelvasbur%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&label=%20&labelColor=D14836&color=grey" height="35">
       </a>
-    </td>
-    <td>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Email-gaelvasbur%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&label=%20&labelColor=D14836&color=grey">
     </td>
   </tr>
 </table>
