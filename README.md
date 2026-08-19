@@ -18,15 +18,23 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 
 ### Frontend
 ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+![Static Badge](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases & Tools
 ![Static Badge](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://shields.io)
+![Static Badge](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🤝 Connect with me
+
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="mailto:gaelvasbur@gmail.com">
+  <img src="https://shields.io" alt="Email" />
+</a>
 
 ## 🤝 Connect with me
 
