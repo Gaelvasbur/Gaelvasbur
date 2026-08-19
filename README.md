@@ -14,7 +14,7 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 **Frontend (Main)**
 * JavaScript (ES6+)
@@ -26,7 +26,7 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 
 ---
 
-* ### 🤝 Connect with me
+* ## 🤝 Connect with me
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Email](https://shields.io)](mailto:gaelvasbur@gmail.com)
