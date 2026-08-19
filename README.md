@@ -34,14 +34,24 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 
 ## 🤝 Connect with me
 
-<p>
-  <a href="https://linkedin.com" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:gaelvasbur@gmail.com">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Agaelvasbur%40gmail.com"      style="vertical-align: middle;">
-  </a>
-  <code style="vertical-align: middle; font-size: 16px;">gaelvasbur@gmail.com</code>
-</p>
+<table>
+  <tr>
+    <!-- Botón de LinkedIn -->
+    <td>
+      <a href="https://linkedin.com" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+      </a>
+    </td>
+    <!-- Botón de Correo -->
+    <td>
+      <a href="mailto:gaelvasbur@gmail.com">
+        <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Agaelvasbur%40gmail.com" height="35">
+      </a>
+    </td>
+    <td>
+      <code>gaelvasbur@gmail.com</code>
+    </td>
+  </tr>
+</table>
+
 
