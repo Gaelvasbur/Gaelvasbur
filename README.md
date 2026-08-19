@@ -41,7 +41,7 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
     <!-- Botón de LinkedIn -->
     <td>
       <a href="https://linkedin.com" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35">
       </a>
     </td>
     <!-- Botón de Correo -->
