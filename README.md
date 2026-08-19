@@ -18,7 +18,7 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 
 ### Frontend
 ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+<img src="[https://shields.io](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS3" />
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases & Tools
