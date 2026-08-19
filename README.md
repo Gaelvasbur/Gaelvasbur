@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bannergael.png" alt="Gael Isaac Vásquez Burgos" width="70%">
+  <img src="./bannergael.png" alt="Gael Isaac Vásquez Burgos" width="100%" height="50%">
 </p>
 
 ## 🚀 About Me
