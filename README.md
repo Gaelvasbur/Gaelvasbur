@@ -49,7 +49,7 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
       </a>
     </td>
     <td>
-      <code>📬 <b>gaelvasbur@gmail.com</b></code>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Email-gaelvasbur%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&label=%20&labelColor=D14836&color=grey">
     </td>
   </tr>
 </table>
