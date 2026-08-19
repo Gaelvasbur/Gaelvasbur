@@ -35,5 +35,13 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 ## 🤝 Connect with me
 
 ![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<img alt="Static Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Agaelvasbur%40gmail.com">
+<a href="mailto:gaelvasbur@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Agaelvasbur%40gmail.com">
+</a>
+
+
+
+
+
+
 
