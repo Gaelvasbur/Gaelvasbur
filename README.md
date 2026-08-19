@@ -3,11 +3,7 @@
 </p>
 
 ## 🚀 About Me
-I am a passionate Frontend Developer focused on building clean, efficient, and scalable web solutions. I love turning complex problems into simple, beautiful, and intuitive designs.
-
-- 🔭 I’m currently working on **refactoring and optimizing my core JavaScript and CSS projects**.
-- 🌱 I’m currently learning **advanced DOM manipulation, scripting automation, and Git workflows**.
-- ⚡ Fun fact: Naturally curious, programmer, and musician. If not working, you'll probably find me reading books or diving into a video game.
+I am an enthusiastic Frontend Developer focused on building clean, efficient, and scalable web solutions. Naturally curious, programmer, and musician. If not working, you'll probably find me reading books or diving into a video game.
 
 ## 🎓 Education & Certifications
 
