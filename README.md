@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=8E20FF00&center=true&vCenter=true&width=435&lines=Gael+Isaac+V%C3%A1squez+Burgos)](https://git.io/typing-svg)
+
 
 ## 🚀 About Me
 I am a passionate Frontend Developer focused on building clean, efficient, and scalable web solutions. I love turning complex problems into simple, beautiful, and intuitive designs.
