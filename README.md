@@ -25,7 +25,14 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 * Git & GitHub 🐙
 ---
 
-## 📫 Connect with Me
+### 🤝 Connect with me
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:tu.correo@email.com)
+
+
+
+
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Email](https://shields.io)](mailto:gaelvasbur@gmail.com)
