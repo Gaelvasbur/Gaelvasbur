@@ -1,11 +1,5 @@
-# <p align="center"> G a e l &nbsp; I s a a c &nbsp; V á s q u e z &nbsp; B u r g o s </p>
-
 <p align="center">
   <img src="https://demolab.com👋+Hello,+I'm+Gael;Frontend+Developer;Creative+Programmer+%26+Musician" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
