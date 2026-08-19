@@ -22,7 +22,4 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 
 **Database & Tools (Complementary)**
 * SQL 📊
-* Git & GitHub 
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:gaelvasbu
+* Git & GitHub
