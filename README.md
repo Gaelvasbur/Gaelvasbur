@@ -30,10 +30,10 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 ## 🤝 Connect with me
 
 <a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="LinkedIn" />
 </a>
 <a href="mailto:gaelvasbur@gmail.com">
-  <img src="https://shields.io" alt="Email" />
+  <img src="https://githubusercontent.com" width="40" height="40" alt="Email" />
 </a>
 
 ## 🤝 Connect with me
