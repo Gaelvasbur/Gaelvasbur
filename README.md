@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bannergael.png" alt="Gael Isaac Vásquez Burgos" width="100%" height="50%">
+  <img src="./bannergael.png" alt="Gael Isaac Vásquez Burgos" height="50%">
 </p>
 
 ## 🚀 About Me
@@ -47,7 +47,7 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
     <!-- Botón de Correo -->
     <td>
       <a href="mailto:gaelvasbur@gmail.com">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Email-gaelvasbur%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&label=%20&labelColor=D14836&color=grey&case=preserve" height="35">
+        <img alt="Static Badge" src="https://img.shields.io/badge/gaelvasbur%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836&color=grey">
       </a>
     </td>
   </tr>
