@@ -31,16 +31,8 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-## 🤝 Connect with me
-
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://githubusercontent.com" width="40" height="40" alt="LinkedIn" />
-</a>
-<a href="mailto:gaelvasbur@gmail.com">
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Email" />
-</a>
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:gaelvasbur@gmail.com)
+![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Agaelvasbur%40gmail.com)
