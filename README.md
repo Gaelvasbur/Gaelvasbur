@@ -49,7 +49,7 @@ I am a passionate Frontend Developer focused on building clean, efficient, and s
       </a>
     </td>
     <td>
-      <code>gaelvasbur@gmail.com</code>
+      <code>📬 <b>gaelvasbur@gmail.com</b></code>
     </td>
   </tr>
 </table>
