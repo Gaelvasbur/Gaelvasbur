@@ -36,7 +36,7 @@ I am an enthusiastic Frontend Developer focused on building clean, efficient, an
   <tr>
     <!-- Botón de LinkedIn -->
     <td>
-      <a href="https://linkedin.com" target="_blank">
+      <a href="www.linkedin.com/in/gael-isaac" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35">
       </a>
     </td>
