@@ -3,11 +3,12 @@
 </p>
 
 ## 🚀 About Me
-I am an enthusiastic Frontend Developer focused on building clean, efficient, and scalable web solutions. Naturally curious, programmer, and musician. If not working, you'll probably find me reading books or diving into a video game.
+I am an enthusiastic Full-Stack Developer focused on building clean, efficient, and scalable web solutions. Naturally curious, programmer, and musician. If not working, you'll probably find me reading books or diving into a video game.
 
 ## 🎓 Education & Certifications
 
-* **Frontend Developer** – Conquer Academy (Conquer Blocks)
+* **Frontend Developer Certification** – Conquer Academy (Conquer Blocks)
+* **Full-Stack Extension (Python & Django)** – Conquer Academy (Conquer Blocks)
 * **Bilingual English/Spanish** – Professional Working Proficiency
 
 ---
