@@ -27,6 +27,7 @@ I am an enthusiastic Full-Stack Developer focused on building clean, efficient, 
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)                        
 
 ### Databases & Infrastructure
+![Static Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
