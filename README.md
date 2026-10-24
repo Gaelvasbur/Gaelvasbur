@@ -3,7 +3,9 @@
 </p>
 
 ## 🚀 About Me
-I am an enthusiastic Full-Stack Developer focused on building clean, efficient, and scalable web solutions. Naturally curious, programmer, and musician. If not working, you'll probably find me reading books or diving into a video game.
+Full-Stack Developer focused on building scalable SaaS platforms, automated financial systems, and reservation engines for retail and local services. Trained at Conquer Academy, I leverage my natural curiosity and my professional background in music to bring deep discipline, structured logical problem-solving, and strong collaboration to engineering teams.
+Bilingual in English (C1) and Spanish, eager to drive value within dynamic programming teams. I´m currently learning and applying IA integrations.
+When I am not writing code, you will probably find me playing music, reading, or diving into a video game. 
 
 ## 🎓 Education & Certifications
 
