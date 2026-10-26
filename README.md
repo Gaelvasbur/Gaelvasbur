@@ -9,8 +9,7 @@ When I am not writing code, you will probably find me playing music, reading, or
 
 ## 🎓 Education & Certifications
 
-* **Frontend Developer Certification** – Conquer Academy (Conquer Blocks)
-* **Full-Stack Extension (Python & Django)** – Conquer Academy (Conquer Blocks)
+* **Full-Stack Master Program** – Conquer Academy (Conquer Blocks)
 * **Bilingual English/Spanish** – Professional Working Proficiency
 
 ---
