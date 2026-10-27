@@ -5,11 +5,11 @@
 ## 🚀 About Me
 Full-Stack Developer focused on building scalable SaaS platforms, automated financial systems, and reservation engines for retail and local services. Trained at Conquer Academy, I leverage my natural curiosity and my professional background in music to bring deep discipline, structured logical problem-solving, and strong collaboration to engineering teams.
 Bilingual in English (C1) and Spanish, eager to drive value within dynamic programming teams.
-When I am not writing code, you will probably find me playing music, reading, or diving into a video game. 
 
 ## 🎓 Education & Certifications
 
-* **Full-Stack Master Program** – Conquer Academy (Conquer Blocks)
+* Conquer Academy (Conquer Blocks):
+* Master in Full-Stack Development – IEAD (Instituto Europeo de Alta Dirección) & Universidad Isabel I, Degree internationally validated in Europe (Currently in the official issuance process). Built scalable decoupled architectures, aligned with rigorous European software engineering standards.
 * **Bilingual English/Spanish** – Professional Working Proficiency
 
 ---
