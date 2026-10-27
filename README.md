@@ -9,7 +9,7 @@ Bilingual in English (C1) and Spanish, eager to drive value within dynamic progr
 ## 🎓 Education & Certifications
 
 * Conquer Academy (Conquer Blocks):
-* Master in Full-Stack Development – IEAD (Instituto Europeo de Alta Dirección) & Universidad Isabel I, Degree internationally validated in Europe (Currently in the official issuance process). Built scalable decoupled architectures, aligned with rigorous European software engineering standards.
+Master in Full-Stack Development – IEAD (Instituto Europeo de Alta Dirección) & Universidad Isabel I, Degree internationally validated in Europe (Currently in the official issuance process). Built scalable decoupled architectures, aligned with rigorous European software engineering standards.
 * **Bilingual English/Spanish** – Professional Working Proficiency
 
 ---
